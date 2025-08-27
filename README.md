@@ -1,6 +1,6 @@
 # 📊 Apuração Confea 2025 - ETL
 
-Aplicação em **Streamlit** para extrair votos por cidade a partir de um PDF de apuração.
+Aplicação em **Streamlit** para extrair votos por cidade a partir dO PDF de apuração.
 
 ## Como usar online
 1. Acesse o link do app no Streamlit Cloud.
@@ -12,3 +12,5 @@ Aplicação em **Streamlit** para extrair votos por cidade a partir de um PDF de
 - Streamlit
 - pdfplumber
 - Pandas
+
+AUTOR: LEONARDO --- SENGE-PR
