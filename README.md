@@ -13,4 +13,5 @@ Aplicação em **Streamlit** para extrair votos por cidade a partir dO PDF de ap
 - pdfplumber
 - Pandas
 
-AUTOR: LEONARDO --- SENGE-PR
+__AUTOR: LEONARDO --- SENGE-PR__
+
