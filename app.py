@@ -69,7 +69,7 @@ def extrair_dados(pdf_file):
 # ---------------- STREAMLIT APP ---------------- #
 
 st.title("📊 Extração de Votos - Apuração Confea 2025")
-
+st.caption("Autor: Leonardo - SENGE-PR")
 uploaded_file = st.file_uploader("Envie o arquivo PDF", type="pdf")
 
 if uploaded_file is not None:
@@ -101,3 +101,4 @@ if uploaded_file is not None:
         file_name="resultado_eleicoes.xlsx",
         mime="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
     )
+
